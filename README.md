@@ -1,8 +1,6 @@
 # Advanced-Video-player
 “A collection of experiments, projects, and implementations in computer science, mathematics, and physics And Artificial Intelligence”
-<p align="center">
-  <img src="Assets/logo.png" alt="JanithPlayer Logo" width="120" height="120">
-</p>
+
 
 <h1 align="center">🎬 Janith Video Player Pro</h1>
 
