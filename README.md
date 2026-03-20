@@ -45,7 +45,6 @@ This project showcases a variety of programming concepts and modern UI design te
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/JanithPlayer.git](https://github.com/yourusername/JanithPlayer.git)
-   cd JanithPlayer
+http://jdr.kesug.com/
+
+
